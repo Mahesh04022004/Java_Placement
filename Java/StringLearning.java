@@ -1,6 +1,8 @@
 
 import java.util.Arrays;
+import java.util.LinkedHashSet;
 import java.util.StringTokenizer;
+import java.util.stream.Collectors;
 
 @SuppressWarnings("unused")
 public class StringLearning{
@@ -167,6 +169,16 @@ public class StringLearning{
         String strip = " Mahesh Is A Boy \u2000";
         System.out.println(strip.strip());
 
+
+        // Converting HashSet to String
+
+        LinkedHashSet<Character>  set = new LinkedHashSet<>();
+        set.add('a');
+        set.add('b');
+        set.add('b');
+
+        String hashResult = set.stream().map(String::valueOf).collect(Collectors.joining(""));
+        System.out.println(hashResult);
 
 
 
