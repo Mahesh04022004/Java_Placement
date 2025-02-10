@@ -85,7 +85,8 @@ public class StringLearning{
 
         String op1 = "Love is Beautiful";
 
-        // charAt() - > return the index of the character
+        // charAt() - > return the character at that index
+        
 
         System.out.println(op1.charAt(5));
 
@@ -93,7 +94,7 @@ public class StringLearning{
 
         System.out.println(op1.length());
 
-        // subString(int initial)
+        // substring(int initial)
 
         System.out.println(op1.substring(5));
 

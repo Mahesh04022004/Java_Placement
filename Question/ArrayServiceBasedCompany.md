@@ -2,7 +2,7 @@ Array Interview Questions - IT Service Companies
 TCS (Tata Consultancy Services)
 Easy
 
-Left Rotate Array
+Left Rotate Array  // complete : reversal Algorithm
 
 Problem: Rotate array left by k positions
 GeeksforGeeks: https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1
@@ -10,14 +10,14 @@ Time Complexity: O(n)
 Common Variation: Rotate by single position
 
 
-Leaders in Array
+Leaders in Array  // complete here we use reverse algorithm
 
 Problem: Find elements which are greater than all elements to their right
 GeeksforGeeks: https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
 Time Complexity: O(n)
 
 
-Second Largest Element
+Second Largest Element // complete
 
 Problem: Find second largest element in array without sorting
 GeeksforGeeks: https://practice.geeksforgeeks.org/problems/second-largest3735/1
@@ -27,7 +27,9 @@ Time Complexity: O(n)
 
 Medium
 
-Kadane's Algorithm
+Kadane's Algorithm  // complete
+
+Notes -> explain in notes
 
 Problem: Maximum Subarray Sum
 GeeksforGeeks: https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
@@ -45,14 +47,16 @@ Time Complexity: O(n)
 Infosys
 Easy
 
-Find Missing Number
+Find Missing Number  // complete
 
 Problem: Find missing number in array containing 1 to N numbers
 GeeksforGeeks: https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
 Time Complexity: O(n)
 
 
-Equilibrium Point
+Equilibrium Point  // complete
+
+Notes -> find the sum of array and then iterate through array substract the arrelemnt from total sum if total sum == left sum then return i otherwise add the arrelement to left sum
 
 Problem: Find index where left sum equals right sum
 GeeksforGeeks: https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1

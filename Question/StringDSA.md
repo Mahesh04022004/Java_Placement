@@ -130,32 +130,38 @@ LeetCode: https://leetcode.com/problems/valid-anagram/
 GeeksforGeeks: https://practice.geeksforgeeks.org/problems/anagram-1587115620/1
 
 
-String Compression
+String Compression  // complete
 
 LeetCode: https://leetcode.com/problems/string-compression/
 
 
-Implement strStr()
+Implement strStr()  // complete
 
 LeetCode: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 
 
-Generate Parentheses
+Generate Parentheses  // complete 
+
+Notes -> usage of the backtrack approach
 
 LeetCode: https://leetcode.com/problems/generate-parentheses/
 
 
-Group Anagrams
+Group Anagrams // complete
+
+Notes -> Use HashMap to solve the problem , sort the array and then take sorted string as key and value will be arraylist
 
 LeetCode: https://leetcode.com/problems/group-anagrams/
 
 
-Longest Substring Without Repeating Characters
+Longest Substring Without Repeating Characters  // complete
+
+Notes -> Use Of Sliding Window And HashSet...
 
 LeetCode: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 
-String to Integer (Complex Cases)
+String to Integer (Complex Cases)  // solved Already
 
 LeetCode: https://leetcode.com/problems/string-to-integer-atoi/
 
@@ -163,22 +169,27 @@ LeetCode: https://leetcode.com/problems/string-to-integer-atoi/
 
 Goldman Sachs (Medium-Hard Level)
 
-Valid Parentheses
+Valid Parentheses  // complete
+
+Notes -> Usage of Stack Data Structure
 
 LeetCode: https://leetcode.com/problems/valid-parentheses/
 
 
-Decode String
+Decode String  // complete
 
+Notes -> Usage of StringBuilder and Two Stack
 LeetCode: https://leetcode.com/problems/decode-string/
 
 
-Longest Valid Parentheses
+Longest Valid Parentheses  // complete
 
 LeetCode: https://leetcode.com/problems/longest-valid-parentheses/
 
 
-Minimum Window Substring
+Minimum Window Substring  // complete 
+
+Notes -> usage of sliding window approach
 
 LeetCode: https://leetcode.com/problems/minimum-window-substring/
 
